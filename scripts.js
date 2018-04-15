@@ -3,13 +3,13 @@
 
 var name = prompt('Enter your name');
 {
-/// Komentarz 1
+// Komentarz 1
 }
 alert('Hello, ' + name);
 {
-	//// komentaz 2
+	//komentaz 2
 }
 console.log('Hello, ' + name);
 {
-	/// Komentarz 3git 
+	//Komentarz 3git 
 }
